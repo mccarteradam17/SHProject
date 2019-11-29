@@ -1,0 +1,7 @@
+Chi-Squared Fit Data
+
+Peak 1:
+Mean: 59.682999999999964
+Standard Deviation: 1.308999999999999
+Amplitude: 432.1833812949638
+
